@@ -36,3 +36,14 @@ body{
     display: flex;
     flex-direction: row;
 }
+
+.letras{
+    width: 16px;
+    text-align: center;
+    border: 1px solid #8b008b;
+    color: #ffffff;
+    padding: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+}
